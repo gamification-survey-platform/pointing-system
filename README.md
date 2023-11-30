@@ -31,11 +31,15 @@ It's recommended to use a virtual environment to avoid conflicts with other Pyth
    Navigate to the project's root directory in your terminal and run:
    ```bash
    python -m venv venv
+   ```
    Activate the Virtual Environment
    ```bash
    source venv/bin/activate
+   ```
 
 2. **Installing Dependencies
     With the virtual environment activated, install the required packages:
-    ``bash
+    ```bash
     pip install -r requirements.txt
+    ```
+    
